@@ -1,0 +1,1 @@
+Inputs length and width to calculate the perimeter and area, uses the file section
